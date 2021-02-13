@@ -24,3 +24,12 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+From childhood's hour I have not been  
+As others were -- I have not seen  
+As others saw -- I could not bring  
+My passions from a common spring --  
+From the same source I have not taken  
+My sorrow -- I could not awaken  
+My heart to joy at the same tone --  
+And all I lov'd -- I lov'd alone --  
